@@ -57,4 +57,8 @@ Adicionando um seletor de idioma para permitir que alterem o idioma em tempo de 
 No component do seletor do idioma, criamos a função `changeLanguage()` e recebemos uma assinatura que esta sendo passado no momento que selecionamos um idioma. Dessa forma, informo que o TranslateService deve usar o novo idioma selecionado. Dessa forma, todo o conteúdo da página é alterado para o idioma selecionado.
 <img src="src\assets\img\screen-5.png" width="100%">
 
+### Teste Unitário - Jest
+E como não podia faltar, feito também os testes unitários usando o framework Jest. Cobertura de 100%. 
+<img src="src\assets\img\teste.png" width="100%">
+
 <h1 align="center">💻 Desenvolvido Por: Gilberto Júnior</h1>
