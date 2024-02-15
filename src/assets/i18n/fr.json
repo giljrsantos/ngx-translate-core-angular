@@ -1,0 +1,67 @@
+{
+    "HELLO": "Bonjour le monde!",
+    "menu": {
+        "home": "Commencer",
+        "features": "Caractéristiques",
+        "princing": "Prix",
+        "disabled": "Désactivé",
+        "sobre": "À propos",
+        "cotacao": "Prix",
+        "boletim": "Bulletin",
+        "contato": "Contact"
+    },
+    "chamadaSelectIdioma": "Sélectionnez la langue",
+    "menuIdioma": {
+        "ingles": "Anglais",
+        "espanhol": "Espagnol",
+        "portugues": "Portugais",
+        "frances": "Français"
+    },
+    "dropdown": {
+        "dropDownInsti": {
+            "menuDropDown": "Institutionnel",
+            "item": {
+                "sobre": "Au dessus de CCCV",
+                "diretoria": "Conseil d'administration et conseil",
+                "estatudo": "Statuts Sociale",
+                "quadroSocio": "Cadre d'adhésion",
+                "oCafe": "Le Café",
+                "historicoPresid": "Histoire des Présidents"
+            }
+        },
+        "dropDownExportacao": {
+            "menuDropDown": "Exporter",
+            "item": {
+                "certificadoOrigem": "Certificat d'origine OIC",
+                "substituicaoCO": "Remplacement de C.O. OIC",
+                "certificadoCCCV": "Certificat CCCV",
+                "estatisticaMensal": "Statistiques mensuelles"
+            }
+        },
+        "dropDownFiquePorDentro": {
+            "menuDropDown": "Restez à l'intérieur",
+            "item": {
+                "noticiasEventos": "Nouvelles et événements",
+                "espacoCultural": "Espace culturel",
+                "convencao": "Convention collective",
+                "linksUteis": "Liens utiles"
+            }
+        },
+        "chamadaDropDown": "Lien",
+        "itensDropDown": {
+            "acao": "Action",
+            "outraAcao": "Autre Action",
+            "algoMais": "Une Autre Chose Ici"
+        }
+    },
+    "cards-news": {
+        "titulo-1": "Les exportations brésiliennes de café battent un record en janvier",
+        "noticia-1": "Le Brésil a exporté 3,961 millions de sacs de café de 60 kg en janvier 2024, un volume...",
+        "titulo-2": "Café : la chute du pétrole fait pression sur les prix à la Bourse de Londres",
+        "noticia-2": "Le London International Finance and Futures Exchange (ICE Futures Europe)...",
+        "titulo-3": "Les prix du café Arabica sont instables en janvier ; le souci c'est la météo",
+        "noticia-3": "Des enquêtes du Centre d'études avancées en économie appliquée (Cepea) indiquent...",
+        "titulo-4": "Café : le recul des ventes maintient l'activité au ralenti en janvier",
+        "noticia-4": "Les enquêtes du Cepea montrent que le marché intérieur du café progresse en..."
+    }
+}

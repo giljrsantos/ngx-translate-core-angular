@@ -1,0 +1,67 @@
+{
+    "HELLO": "Olá, Mundo!",
+    "menu": {
+        "home": "Início",
+        "features": "Características",
+        "princing": "Preço",
+        "disabled": "Desabilitado",
+        "sobre": "Sobre",
+        "cotacao": "Cotação",
+        "boletim": "Boletim",
+        "contato": "Contato"
+    },
+    "chamadaSelectIdioma": "Selecione o Idioma",
+    "menuIdioma": {
+        "ingles": "Inglês",
+        "espanhol": "Espanhol",
+        "portugues": "Português",
+        "frances": "Francês"
+    },
+    "dropdown": {
+        "dropDownInsti": {
+            "menuDropDown": "Institucional",
+            "item": {
+                "sobre": "Sobre o CCCV",
+                "diretoria": "Diretoria e Conselho",
+                "estatudo": "Estatuto Social",
+                "quadroSocio": "Quadro de Sócio",
+                "oCafe": "O Café",
+                "historicoPresid": "Histórico de Presidentes"
+            }
+        },
+        "dropDownExportacao": {
+            "menuDropDown": "Exportação",
+            "item": {
+                "certificadoOrigem": "Certificado de Origem OIC",
+                "substituicaoCO": "Substituição de C.O. OIC",
+                "certificadoCCCV": "Certificado CCCV",
+                "estatisticaMensal": "Estatística Mensal"
+            }
+        },
+        "dropDownFiquePorDentro": {
+            "menuDropDown": "Fique por dentro",
+            "item": {
+                "noticiasEventos": "Notícias Eventos",
+                "espacoCultural": "Espaço Cultural",
+                "convencao": "Convenção Coletiva",
+                "linksUteis": "Links Úteis"
+            }
+        },
+        "chamadaDropDown": "Link",
+        "itensDropDown": {
+            "acao": "Ação",
+            "outraAcao": "Outra Ação",
+            "algoMais": "Outra Coisa Aqui"
+        }
+    },
+    "cards-news": {
+        "titulo-1": "Exportação de café brasileiro bate recorde em janeiro",
+        "noticia-1": "O Brasil exportou 3,961 milhões de sacas de 60 kg de café em janeiro de 2024, volume...",
+        "titulo-2": "Café: queda do petróleo pressiona cotações na Bolsa de Londres",
+        "noticia-2": "A Bolsa Internacional de Finanças e Futuros de Londres (ICE Futures Europa)...",
+        "titulo-3": "Preços do café arábica ficam instáveis em janeiro; preocupação é o clima",
+        "noticia-3": "Levantamentos do Centro de Estudos Avançados em Economia Aplicada (Cepea) apontam...",
+        "titulo-4": "Café: retração vendedora mantém negócios lentos em janeiro",
+        "noticia-4": "Levantamentos do Cepea mostram que o mercado interno de café avança janeiro..."
+    }
+}

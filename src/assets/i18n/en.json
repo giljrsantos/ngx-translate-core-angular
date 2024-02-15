@@ -1,0 +1,67 @@
+{
+    "HELLO": "Hello, World!",
+    "menu": {
+        "home": "Home",
+        "features": "Features",
+        "princing": "Princing",
+        "disabled": "Disabled",
+        "sobre": "About",
+        "cotacao": "Price",
+        "boletim": "Report card",
+        "contato": "Contact"
+    },
+    "chamadaSelectIdioma": "Select the language",
+    "menuIdioma": {
+        "ingles": "English",
+        "espanhol": "Spanish",
+        "portugues": "Portuguese",
+        "frances": "French"
+    },
+    "dropdown": {
+        "dropDownInsti": {
+            "menuDropDown": "Institutional",
+            "item": {
+                "sobre": "Over the CCCV",
+                "diretoria": "Board and Council",
+                "estatudo": "Bylaws",
+                "quadroSocio": "Membership Table",
+                "oCafe": "The coffee",
+                "historicoPresid": "History of Presidents"
+            }
+        },
+        "dropDownExportacao": {
+            "menuDropDown": "Export",
+            "item": {
+                "certificadoOrigem": "Certificate of Origin OIC",
+                "substituicaoCO": "Replacement of C.O. OIC",
+                "certificadoCCCV": "Certificate CCCV",
+                "estatisticaMensal": "Monthly Statistics"
+            }
+        },
+        "dropDownFiquePorDentro": {
+            "menuDropDown": "Stay in",
+            "item": {
+                "noticiasEventos": "News Events",
+                "espacoCultural": "Cultural space",
+                "convencao": "Collective Agreement",
+                "linksUteis": "Useful links"
+            }
+        },
+        "chamadaDropDown": "Link",
+        "itensDropDown": {
+            "acao": "Action",
+            "outraAcao": "Another Action",
+            "algoMais": "Something Else Here"
+        }
+    },
+    "cards-news": {
+        "titulo-1": "Brazilian coffee exports break record in January",
+        "noticia-1": "Brazil exported 3.961 million 60 kg bags of coffee in January 2024, a volume...",
+        "titulo-2": "Coffee: fall in oil pressures prices on the London Stock Exchange",
+        "noticia-2": "The London International Finance and Futures Exchange (ICE Futures Europe)...",
+        "titulo-3": "Arabica coffee prices are unstable in January; worry is the weather",
+        "noticia-3": "Surveys by the Center for Advanced Studies in Applied Economics (Cepea) indicate...",
+        "titulo-4": "Coffee: sales retraction keeps business slow in January",
+        "noticia-4": "Cepea surveys show that the domestic coffee market advances in January..."
+    }
+}

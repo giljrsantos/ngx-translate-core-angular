@@ -1,0 +1,67 @@
+{
+    "HELLO": "¡Hola mundo!",
+    "menu": {
+        "home": "Comenzar",
+        "features": "Características",
+        "princing": "Precio",
+        "disabled": "Desactivado",
+        "sobre": "Acerca de",
+        "cotacao": "Precio",
+        "boletim": "Boleta de Calificaciones",
+        "contato": "Contacto"
+    },
+    "chamadaSelectIdioma": "Selecciona el idioma",
+    "menuIdioma": {
+        "ingles": "Inglés",
+        "espanhol": "Español",
+        "portugues": "Portugués",
+        "frances": "Francés"
+    },
+    "dropdown": {
+        "dropDownInsti": {
+            "menuDropDown": "Institucional",
+            "item": {
+                "sobre": "Sobre el CCCV",
+                "diretoria": "Junta y Consejo",
+                "estatudo": "Estatuto Social",
+                "quadroSocio": "Tabla de Membresía",
+                "oCafe": "El Café",
+                "historicoPresid": "Historia de los Presidentes"
+            }
+        },
+        "dropDownExportacao": {
+            "menuDropDown": "Exportar",
+            "item": {
+                "certificadoOrigem": "Certificado de Origem OIC",
+                "substituicaoCO": "Reemplazo de C.O. OIC",
+                "certificadoCCCV": "Certificado CCCV",
+                "estatisticaMensal": "Estadísticas Mensuales"
+            }
+        },
+        "dropDownFiquePorDentro": {
+            "menuDropDown": "Quédate Ahí",
+            "item": {
+                "noticiasEventos": "Noticias y Eventos",
+                "espacoCultural": "Espacio Cultural",
+                "convencao": "Acuerdo Colectivo",
+                "linksUteis": "Enlaces Útiles"
+            }
+        },
+        "chamadaDropDown": "Enlace",
+        "itensDropDown": {
+            "acao": "Acción",
+            "outraAcao": "Otra Acción",
+            "algoMais": "Otra Cosa Aquí"
+        }
+    },
+    "cards-news": {
+        "titulo-1": "Las exportaciones brasileñas de café baten récord en enero",
+        "noticia-1": "Brasil exportó 3.961 millones de sacos de café de 60 kg en enero de 2024, un volumen...",
+        "titulo-2": "Café: caída del petróleo presiona los precios en la Bolsa de Londres",
+        "noticia-2": "La Bolsa Internacional de Finanzas y Futuros de Londres (ICE Futures Europe)...",
+        "titulo-3": "Los precios del café arábica son inestables en enero; la preocupación es el clima",
+        "noticia-3": "Encuestas del Centro de Estudios Avanzados en Economía Aplicada (Cepea) indican...",
+        "titulo-4": "Café: la retracción de las ventas mantiene lento el negocio en enero",
+        "noticia-4": "Encuestas de Cepea muestran que el mercado interno del café avanza en enero..."
+    }
+}

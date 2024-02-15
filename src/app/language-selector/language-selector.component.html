@@ -1,0 +1,123 @@
+<nav class="navbar navbarStyle navbar-expand-lg navbar-light bg-light">
+    <div class="container-fluid">
+
+        <img src="../../assets/img/logo.png" alt="" style="margin-right: 10px;" width="100" height="90">
+
+        <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav"
+            aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="collapse navbar-collapse" id="navbarNav">
+            <ul class="navbar-nav">
+
+                <li class="nav-item dropdown">
+                    <a class="nav-link dropdown-toggle active" href="#" id="navbarScrollingDropdown" role="button"
+                        data-bs-toggle="dropdown" aria-expanded="false">
+                        {{ 'dropdown.dropDownInsti.menuDropDown' | translate }}
+                    </a>
+                    <ul class="dropdown-menu" aria-labelledby="navbarScrollingDropdown">
+                        <li>
+                            <a class="dropdown-item" href="#">{{ 'dropdown.dropDownInsti.item.sobre' |
+                                translate }}</a>
+                        </li>
+                        <li>
+                            <a class="dropdown-item" href="#">{{ 'dropdown.dropDownInsti.item.diretoria' |
+                                translate }}</a>
+                        </li>
+
+                        <li>
+                            <a class="dropdown-item" href="#">{{ 'dropdown.dropDownInsti.item.estatudo' |
+                                translate }}</a>
+                        </li>
+                        <li>
+                            <a class="dropdown-item" href="#">{{ 'dropdown.dropDownInsti.item.quadroSocio' |
+                                translate }}</a>
+                        </li>
+                        <li>
+                            <a class="dropdown-item" href="#">{{ 'dropdown.dropDownInsti.item.oCafe' |
+                                translate }}</a>
+                        </li>
+
+                        <li>
+                            <a class="dropdown-item" href="#">{{ 'dropdown.dropDownInsti.item.historicoPresid' |
+                                translate }}</a>
+                        </li>
+                    </ul>
+                </li>
+
+                <li class="nav-item">
+                    <a class="nav-link active" aria-current="page" href="#">{{ 'menu.cotacao' | translate }}</a>
+                </li>
+
+                <li class="nav-item dropdown">
+                    <a class="nav-link dropdown-toggle active" href="#" id="navbarScrollingDropdown" role="button"
+                        data-bs-toggle="dropdown" aria-expanded="false">
+                        {{ 'dropdown.dropDownExportacao.menuDropDown' | translate }}
+                    </a>
+                    <ul class="dropdown-menu" aria-labelledby="navbarScrollingDropdown">
+                        <li><a class="dropdown-item" href="#">{{ 'dropdown.dropDownExportacao.item.certificadoOrigem' |
+                                translate }}</a></li>
+                        <li><a class="dropdown-item" href="#">{{ 'dropdown.dropDownExportacao.item.substituicaoCO' |
+                                translate }}</a></li>
+
+                        <li><a class="dropdown-item" href="#">{{ 'dropdown.dropDownExportacao.item.certificadoCCCV' |
+                                translate }}</a></li>
+                        <li><a class="dropdown-item" href="#">{{ 'dropdown.dropDownExportacao.item.estatisticaMensal' |
+                                translate }}</a></li>
+                    </ul>
+                </li>
+
+                <li class="nav-item dropdown">
+                    <a class="nav-link dropdown-toggle active" href="#" id="navbarScrollingDropdown" role="button"
+                        data-bs-toggle="dropdown" aria-expanded="false">
+                        {{ 'dropdown.dropDownFiquePorDentro.menuDropDown' | translate }}
+                    </a>
+                    <ul class="dropdown-menu" aria-labelledby="navbarScrollingDropdown">
+                        <li><a class="dropdown-item" href="#">{{ 'dropdown.dropDownFiquePorDentro.item.noticiasEventos'
+                                |
+                                translate }}</a></li>
+                        <li><a class="dropdown-item" href="#">{{ 'dropdown.dropDownFiquePorDentro.item.espacoCultural' |
+                                translate }}</a></li>
+                        <li>
+                            <hr class="dropdown-divider">
+                        </li>
+                        <li><a class="dropdown-item" href="#">{{ 'dropdown.dropDownFiquePorDentro.item.convencao' |
+                                translate }}</a></li>
+                        <li><a class="dropdown-item" href="#">{{ 'dropdown.dropDownFiquePorDentro.item.linksUteis' |
+                                translate }}</a></li>
+                    </ul>
+                </li>
+
+                <li class="nav-item">
+                    <a class="nav-link active" href="#">{{ 'menu.boletim' | translate }}</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link active" href="#">{{ 'menu.contato' | translate }}</a>
+                </li>
+
+
+
+
+            </ul>
+        </div>
+
+
+
+        <div class="row g-3 align-items-center">
+            <div class="col-auto">
+                <img src="../../assets//img/paises.png" alt="" style="margin-right: 10px;" width="30" height="30">
+                <label for="inputPassword6" class="col-form-label">{{ 'chamadaSelectIdioma' | translate
+                    }}</label>
+            </div>
+            <div class="col-auto">
+                <select class="form-select form-select-lg" aria-label="Default select example"
+                    (change)="changeLanguage($event)">
+                    <option value="pt">{{ 'menuIdioma.portugues' | translate }}</option>
+                    <option value="en">{{ 'menuIdioma.ingles' | translate }}</option>
+                    <option value="es">{{ 'menuIdioma.espanhol' | translate }}</option>
+                    <option value="fr">{{ 'menuIdioma.frances' | translate }}</option>
+                </select>
+            </div>
+        </div>
+    </div>
+</nav>
